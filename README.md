@@ -37,7 +37,7 @@ _ **Пользовательский чат**
 Проект предоставляет возможность более детально изучить разработку корпоративных приложений, а также закрепить практические навыки работы с кроссплатформенными технологиями и управлением пользовательским интерфейсом. Внедрение ***Firebase*** позволило упростить управление данными и повысить эффективность разработки.
 
 <p align="center">
-  <img src="images/cover.png" alt="Cover" width="800">
+  <img src="[images/cover.png](https://gym1516.mskobr.ru/files/folder/2023-2024/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE/udcn8cddlwq.jpg)" alt="Cover" width="800">
 </p>
 https://github.com/user-attachments/assets/dc99db74-914e-4b32-b377-7fb6c2f49483
 
